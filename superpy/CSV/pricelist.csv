@@ -1,0 +1,5 @@
+id,product_name,buy_price,sell_price,stock,
+1,orange,0.8,2.0,22
+2,banana,0.8,2.0,43
+3,grape,1,2,10
+4,apple,0.8,3.0,7
